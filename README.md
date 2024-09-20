@@ -12,4 +12,4 @@
 | 날짜       | 프로젝트명         | 설명                            | 스택                   | 깃허브 주소                                      |
 |------------|----------------------|---------------------------------|------------------------|------------------------------------------------|
 | 2024-09-13 | vSphereDRS  | 효율적인 자원 분배를 목적으로 하는 vSphereDRS        | VMware | [:books:vSphereDRS](https://github.com/WooriFISA-VMware/vSphereDRS) |
-| 2024-09-20 | PAM  | 사용자의 사용 권한을 제어를 목적으로 하는 PAM        | VirtualBox, Linux | [:book:PAM](https://github.com/jjeong1015/WooriFISA-PAM) |
+| 2024-09-20 | PAM  | 사용자의 사용 권한 제어를 목적으로 하는 PAM        | VirtualBox, Linux | [:book:PAM](https://github.com/jjeong1015/WooriFISA-PAM) |
