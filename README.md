@@ -14,3 +14,4 @@
 |------------|----------------------|---------------------------------|------------------------|------------------------------------------------|------------|
 | 2024-09-13 | vSphereDRS  | 효율적인 자원 분배를 목적으로 하는 vSphereDRS        | VMware | [:books:vSphereDRS](https://github.com/WooriFISA-VMware/vSphereDRS) | 4명
 | 2024-09-20 | PAM  | 사용자의 사용 권한 제어를 목적으로 하는 PAM        | VirtualBox, Linux | [:book:PAM](https://github.com/jjeong1015/WooriFISA-PAM) | 1명
+| 2024-09-23 | Average Load Analysis  | Linux 평균 부하 분석 및 모니터링        | VirtualBox, Linux | [:bookmark_tabs:Average Load Analysis](https://github.com/jjeong1015/WooriFISA-LinuxAverageLoadAnalysis) | 2명
