@@ -17,4 +17,4 @@
 | 2024-09-23 | Average Load Analysis  | Linux 평균 부하 분석 및 모니터링        | VirtualBox, Linux | [:bookmark_tabs:Average Load Analysis](https://github.com/jjeong1015/WooriFISA-LinuxAverageLoadAnalysis) | 2
 | 2024-09-24 | Docker Optimization  | Docker 이미지 최적화        | VirtualBox, Linux, Docker | [:shark:Docker Image Optimization](https://github.com/jjeong1015/WooriFISA-Docker) | 1
 | 2024-09-25 | Docker Trivy  | Trivy를 사용한 Docker 보안 문제 파악        | VirtualBox, Linux, Docker | [:lock:Docker Trivy](https://github.com/jjeong1015/DockerTrivy) | 1
-
+| 2024-09-26 | Jenkins Test  | Jenkins와 Ngrok을 활용한 CI/CD 파이프라인 구축        | VirtualBox, Linux, Docker, Jenkins | [:rocket:Jenkins Test](https://github.com/jjeong1015/jenkinsTest) | 1
