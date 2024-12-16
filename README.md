@@ -22,4 +22,6 @@
 | 2024-10-22 | K8S-HPA  | Backend를 Kubernetes의 HPA를 사용하여 자동 확장        | Java, VirtualBox, Linux, Docker, Kubernetes | [🫐K8S-HPA](https://github.com/jjeong1015/k8s-hpa-autoscaling.git) | 1
 
 ## Monitoring
+| 날짜       | 프로젝트명         | 설명                            | 스택                   | 깃허브 주소  | 인원                                      |
+|------------|----------------------|---------------------------------|------------------------|------------------------------------------------|------------|
 | 2024-12-12 | Woori Camping  | 캠핑 렌탈 서비스 플랫폼        | Java, AWS, JMeter, Prometheus, Grafana | [🏕️Woori Camping](https://github.com/orgs/fisa3-ce-final/repositories) | 5
