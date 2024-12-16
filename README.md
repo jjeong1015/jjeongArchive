@@ -24,4 +24,4 @@
 ## Monitoring
 | 날짜       | 프로젝트명         | 설명                            | 스택                   | 깃허브 주소  | 인원                                      |
 |------------|----------------------|---------------------------------|------------------------|------------------------------------------------|------------|
-| 2024-12-12 | Woori Camping  | 캠핑 렌탈 서비스 플랫폼        | Java, AWS, JMeter, Prometheus, Grafana | [🏕️Woori Camping](https://github.com/orgs/fisa3-ce-final/repositories) | 5
+| 2024-12-12 | Woori Camping  | 캠핑용품 렌탈 서비스 플랫폼        | Java, AWS, JMeter, Prometheus, Grafana | [🏕️Woori Camping](https://github.com/orgs/fisa3-ce-final/repositories) | 5
