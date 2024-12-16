@@ -20,6 +20,8 @@
 | 2024-09-26 | Jenkins Test  | Jenkins와 Ngrok을 활용한 CI/CD 파이프라인 구축        | VirtualBox, Linux, Docker, Jenkins | [:rocket:Jenkins Test](https://github.com/jjeong1015/jenkinsTest0.git) | 1
 | 2024-10-13 | CI-CD-Pipeline-with-Jenkins-and-AWS  | Spring Boot 애플리케이션을 자동으로 빌드, 테스트, 배포하는 CI/CD 파이프라인을 구축        | AWS, VirtualBox, Linux, Docker, Ngrok, Jenkins | [🧪CI/CD-AWS](https://github.com/jjeong1015/CI-CD-Pipeline-with-Jenkins-and-AWS.git) | 1
 | 2024-10-22 | K8S-HPA  | Backend를 Kubernetes의 HPA를 사용하여 자동 확장        | Java, VirtualBox, Linux, Docker, Kubernetes | [🫐K8S-HPA](https://github.com/jjeong1015/k8s-hpa-autoscaling.git) | 1
+| 2024-12-16 | Woori-on  | 우리카드 포인트 활용 맞춤형 기부 플랫폼 기획        |  | [💙Woori-on](https://github.com/jjeong1015/woori-on.git) | 5
+
 
 ## Monitoring
 | 날짜       | 프로젝트명         | 설명                            | 스택                   | 깃허브 주소  | 인원                                      |
